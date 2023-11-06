@@ -3,7 +3,6 @@
 - 👩‍💻 Linguagens: JavaScript
 - 🌱 Atualmente estou aprendendo JavaScript
 - 💞️ Meu portfólio:
-- 📝 Currículo: https://docs.google.com/document/d/e/2PACX-1vSOP8qAPTEFFdOmyDWrsE4J9hF_zyH0lfxgcP8EdNxABZY9viM-onI45rb6BRAV7Agcursy-QpXeLHh/pub 
 - 📫 julia.pfister03@gmail.com
 
 <!---
