@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a @jujubap21
 - 👀 Me desenvolvendo em back-end
-- 👩‍💻 Linguagens: JavaScript
+- 👩‍💻 Linguagens: JavaScript, Python
 - 🌱 Atualmente estou aprendendo Python
 - 💞️ Meu portfólio:
 - 📫 julia.pfister03@gmail.com
